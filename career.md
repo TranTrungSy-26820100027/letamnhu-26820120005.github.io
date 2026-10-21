@@ -30,7 +30,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | CÔNG TY TNHH SAMSUNG SDS VIỆT NAM | Software Internship Program 2026 | https://www.topcv.vn/viec-lam/software-internship-program-2026/2292472.html?ta_source=JobSearchList_LinkDetail&u_sr_id=pbjAm70td5N6dBzxnguPu29nxXFmZwlVYYoHD7qp_1789659144 | 17/09/2026 |
 | 3 | CÔNG TY TNHH POLARIS INNOVATION VIỆT NAM | Senior Full-Stack Developer | https://www.topcv.vn/viec-lam/senior-full-stack-developer/2291313.html?ta_source=JobSearchList_LinkDetail&u_sr_id=pbjAm70td5N6dBzxnguPu29nxXFmZwlVYYoHD7qp_1789659144 | 17/09/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong thư mục [anh](https://github.com/letamnhu-26820120005/letamnhu-26820120005.github.io/tree/main/anh)
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
