@@ -30,7 +30,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 | Viện nghiên cứu và phát triển Sản phẩm thiên nhiên | Lập Trình Viên Backend / Web Developer (NodeJS / AI-Integration) | https://www.topcv.vn/tim-viec-lam-software-engineering-cr257cb258?type_keyword=1&disable_auto_detect_type_keyword=1&sba=1&category_family=r257~b258&saturday_status=0 | 21/10/2026 |
 | 3 | Viettel Digital | Middle Java Developer | https://www.topcv.vn/cong-ty/viettel-digital/246114.html | 21/10/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`https://github.com/letamnhu-26820120005/letamnhu-26820120005.github.io/tree/main/anh.2.0
+Ảnh chụp màn hình ba tin lưu trong thư mục [anh](https://github.com/letamnhu-26820120005/letamnhu-26820120005.github.io/tree/main/anh.2.0)
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 **Chỗ thứ nhất**
