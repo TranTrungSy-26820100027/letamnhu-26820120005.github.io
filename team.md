@@ -4,7 +4,7 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-**Nhóm:**Anyone is legend · **Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang, Trần Trung Sỹ,Lê Tâm Như. 
+**Nhóm:**Anyone is legend · **Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang,Trần Trung Sỹ,Lê Tâm Như,Nguyễn Tùng Dương. 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -16,15 +16,15 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Trễ hẹn, nước tới chân mới nhảy, làm việc người trước người sau.   
 
-**Vấn đề thật (sau khi bóc):** Chậm trễ trong việc làm bài tập, dự án nhóm.
+**Vấn đề thật (sau khi bóc):** 
 
-*Người viết phần này: Lê Tâm Như *
+*Người viết phần này: Nguyễn Phú Quý *
 
 ### 2. Cách đo và số liệu
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** … · **Số ngày đo:** … · **Số người tham gia đo:** …
+**Cách đo:** … · **Số ngày đo:** 3 · **Số người tham gia đo:** 1
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
@@ -32,7 +32,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 | … | … | … |
 | … | … | … |
 
-*Người viết phần này: Nguyễn Phú Quý*
+*Người viết phần này: Nguyễn Tùng Dương*
 
 ### 3. Nguyên nhân gốc
 
