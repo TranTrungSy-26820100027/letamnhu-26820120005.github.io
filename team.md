@@ -58,68 +58,71 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | Chia tiến độ theo mô hình "Chạy tiếp sức" thay vì làm chung: Người A tìm tài liệu => Người B viết nháp => Người C thiết kế slide => Người D thuyết trình | Cả nhóm | Xuyên suốt dự án | Tiến độ vừa phải. Người sau phải đợi người trước hoàn thành để nhận file làm tiếp. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị trễ deadline. |
 | Tạo áp lực làm bài | Phú Quý | Xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
-*Người viết phần này: Nguyễn Hữu Đức*
+*Người viết phần này: Phạm Hữu Đức*
 
 ### 5. Cẩm nang cho người sau
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** …
+**Giữ:** Giành 30p phân công công việc thật cụ thể cho từng thành viên, cùng trao đổi đóng góp ý kiến, khi mỗi người chuẩn bị phần nội dung xong rồi cần cùng nhau kiểm tra lại xem có hợp lí hay thiếu sót gì không.
 
-**Bỏ:** …
+**Bỏ:** Bỏ hết những thói quen đùng đẩy trách nhiệm, trễ nải trong phần đưa ra nội dung khi nhóm cần, đặt thời gian hoàn thành công việc lên trên hết và nội dung chỉnh chu là mục đích cần hướng tới.
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** …
+**Cảnh báo cụ thể cho nhóm khoá sau:** Nên giành nhiều thời gian để trao đổi và đưa ra những ý kiến phù hợp, tập trung vào phần còn thiếu xót hay điểm yếu của nhóm mà sửa chữa khắc phục kịp thời.
 
 *Người viết phần này: Bùi Minh Khang*
 
 ## 1. Cách chia việc
 
-Bữa đầu:Cả nhóm hẹn họp online vào 10h.
-Khi họp nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng và các bạn tự xung phong:
+Bữa đầu:Cả nhóm hẹn họp online vào 22h.
+Nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng của mỗi thành viên.
+Trưởng nhóm Tâm Như: Phân chia việc cho các thành viên <br>
+Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần 1: Vấn đề) <br>
+Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần 1: Ba giải pháp đã thử) <br>
+Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nang cho người sau) <br>
+Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc) <br>
+Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách đo và số liệu)
 
--Bạn Tâm Như làm 2 phần 1 đầu và cuối.
-
--Bạn Phú Quý làm phần 2 đầu và 3 cuối.
-
--Bạn Hữu Đức làm phần 4 đầu và 2 cuối.
-
--Bạn Minh Khang làm phần 5 đầu và 4 cuối.
-
--Bạn Trung Sỹ làm phần 3 đầu và 5 cuối.
-
-*Người viết phần này: Lê Tâm Như *
+*Người viết phần này: Trần Trung Sỹ*
 
 ## 2. Cách đặt hạn cho nhau
 
-…
+-Đánh thẳng vào điểm số: Thống nhất ngay từ đầu và ghi rõ vào biên bản nhóm: Trễ deadline nội bộ 1 ngày bằng với trừ 20% điểm đóng góp, quá 2 ngày hoặc bơ tin nhắn bằng với việc gạch tên khỏi trang bìa.
+-Luôn sẵn sàng xong bài trước deadline 2 ngày vì ngày kế deadline chỉ cần ngồi xem lại và có rất nhiều thời gian để chỉnh sửa bài.
+-Tùy thuộc vào nội dung phụ trách thì hạn nộp khác nhau có thể rất sớm và cũng có thể vừa đủ.
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Hữu Đức*
 
 ## 3. Cách họp
 
-Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
+Địa điểm họp ở trường nhưng thời gian không cố định, cách nhau 1 tuần và thời lượng họp không cụ thể. <br>
+Nhóm trưởng sẽ là người đưa ra kết luận và chốt ý kiếm chung của buổi họp đó.
 
-…
-
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý*
 
 ## 4. Khi một người mất tích
 
-…
+Khi bắt đầu làm bài trong 30p đầu phân chia công việc cụ thể, không bắt tay ngay vào làm mà họp triển khai công việc rõ ràng.
+Phân chia lại công việc và chia ra sao cho hợp lí.
+Thu gọn phạm vi làm việc của mỗi thành viên để cùng nhau làm luôn cả phần người mất tích.
+Cùng nhau đánh giá lại tiến độ hoàn thành công việc.
+Giữ lửa cho những thành viên còn lại khi thấy ai đó muốn bỏ cuộc.
+Ghi lại lịch sử tin nhắn, những lần liên lạc với người mất tích.
+Xem lại phần đánh giá điểm số để bảo vệ quyền lợi của mọi người thật công bằng.
 
-*Người viết phần này: …*
+*Người viết phần này: Bùi Minh Khang*
+
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý kiến của mỗi người trong nhóm để phân tích ưu/nhược điểm của mỗi ý kiến được đưa ra, từ đó có thể chọn được ý kiến tối ưu nhất. Nếu vẫn chưa chọn được ý kiến nào thì sẽ đưa ra phương án bình chọn và dựa trên số lượng mỗi người đồng ý với ý kiến nào để có thể thống nhất 1 phương án làm việc chung. 
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Tùng Dương*
+
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
-Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
-
-…
+Nhóm cãi nhau ở việc bất đồng quan điểm, do 1 phần mọi người đều tiếc đi công sức của bản thân mình làm và cái tôi còn cao nên dẫn đến việc có tranh cãi. Ví dụ lớn nhất đó là việc bất đồng quan điểm của bạn Hữu Đức và bạn Phú Quý về việc bạn Hữu Đức làm sai nhưng bạn không chịu chấp nhận ý kiến của bạn Quý rằng bạn đang thiếu xót mà bạn cứ khăng khăng là bạn đúng. Nên dẫn đến việc trì trệ thời gian bài nhóm bị kéo dài ra hơn.
 
 ## Tôi đã làm việc với AI thế nào
 
