@@ -56,9 +56,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Học ngôn ngữ lập trình Python.
+2. Học tiếng Anh.
+3. Tìm hiểu về kỹ năng làm việc nhóm.
 
 Cụ thể tới mức tháng sau kiểm được.
 
