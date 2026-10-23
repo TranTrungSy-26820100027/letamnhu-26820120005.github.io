@@ -54,9 +54,9 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
+| Chia nhỏ bài tập thành các phần độc lập | Cả nhóm | Xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
+| Chia tiến độ theo mô hình "Chạy tiếp sức" thay vì làm chung: Người A tìm tài liệu => Người B viết nháp => Người C thiết kế slide => Người D thuyết trình | Cả nhóm | Xuyên suốt dự án | Tiến độ vừa phải. Người sau phải đợi người trước hoàn thành để nhận file làm tiếp. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị trễ deadline. |
+| Tạo áp lực làm bài | Phú Quý | Xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
 *Người viết phần này: Nguyễn Hữu Đức*
 
