@@ -4,45 +4,47 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-**Nhóm:**Anyone is legend · **Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang,Trần Trung Sỹ,Lê Tâm Như,Nguyễn Tùng Dương. 
+**Nhóm: Anyone is legend.** <br>**Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang,Trần Trung Sỹ,Lê Tâm Như,Nguyễn Tùng Dương. 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
-
-> Đây là phần lõi của Playbook — một vấn đề học tập có thật mà nhóm đã đo, tìm nguyên nhân gốc, thử giải pháp và rút cẩm nang cho khoá sau. Đủ năm phần mới tính.
-
 ### 1. Vấn đề
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Trễ hẹn, nước tới chân mới nhảy, làm việc người trước người sau.   
 
-**Vấn đề thật (sau khi bóc):** 
+**Vấn đề thật (sau khi bóc):** Các thành viên không hoàn thành đúng thời hạn.
 
 *Người viết phần này: Nguyễn Phú Quý *
 
 ### 2. Cách đo và số liệu
 
-Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
-
-**Cách đo:** … · **Số ngày đo:** 3 · **Số người tham gia đo:** 1
+**Cách đo:** Số ngày các thành viên trễ hạn trước buổi họp tiếp theo · **Số ngày đo:** 3 · **Số người tham gia đo:** 1
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| 28/9 | Chưa có | Nhóm trưởng phân công và đặt hạn |
+| 4/10 |  Quý 2, Dương 4 | Tất cả mọi người chấm chéo lỗi sản phẩm của nhau, phân thêm deadline sữa chữa và lên lịch cho buổi họp tiếp theo |
+| 11/10 | Sỹ 1, Đức 3 | Mọi người hoàn thành phần việc của mình và hoàn thiện bài |
 
 *Người viết phần này: Nguyễn Tùng Dương*
 
 ### 3. Nguyên nhân gốc
 
-Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
+1. Vì sao các thành viên không hoàn thành đúng thời hạn? <br>
+=> Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+2. Vì sao thường trì hoãn trong công việc? <br>
+=> Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được mức độ quan trọng, ưu tiên của công việc.
+
+3. Vì sao chưa có kế hoạch làm việc cụ thể? <br>
+=> Vì nhóm chưa phân công công việc của từng người cụ thể một cách rõ ràng ngay từ đầu.
+
+4. Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng? <br>
+=> Vì mọi người thiếu sự phối hợp công việc trong nhóm.
+
+5. Vì sao mọi người thiếu sự phối hợp? <br>
+=> Vì mọi người chưa có sự thống nhất trong cách làm việc.
 
 *Người viết phần này: Trần Trung Sỹ*
 
