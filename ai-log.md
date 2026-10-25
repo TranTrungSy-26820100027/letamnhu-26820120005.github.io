@@ -21,4 +21,4 @@ title: Nhật ký dùng AI
 
 ## Điều tôi học được về cách làm việc với nó
 
-…
+Sau 1 khoảng thời gian dài học tập và làm bài cùng AI, em nhận ra không phải mọi thứ AI nói đều là sự thật. Suy co cùng đây là trí tuệ do chúng ta tạo ra. Nó không hoàn hảo và chúng ta nên tỉnh táo khi sử dụng AI. Không nên quá mong cầu vào đáp án mà nó đưa ra chúng ta sử dụng AI chỉ để rút ngắn quá trình để thuận tiện hơn trong học tập. Không nên có suy nghĩ mình phải giỏi hơn AI, vì AI tính đến bây giờ nó thật sự quá giỏi. Chúng ta cần học cáhc kiểm soát nó và đứng trên nó. AI chỉ là công cụ.
