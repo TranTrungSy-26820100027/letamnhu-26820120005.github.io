@@ -36,9 +36,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: - Tin 3: Biết tiếng Anh/tiếng Trung
+- Tin tuyển dụng thật ra viết: -Biết tiếng Anh/tiếng Trung (làm việc với team quốc tế).
+- Tôi sửa thành: Biết tiếng Anh và tiếng Trung(môi trường làm việc cùng người nước ngoài).
 
 **Chỗ thứ hai**
 
