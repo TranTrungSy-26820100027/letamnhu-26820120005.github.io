@@ -6,17 +6,17 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | GEMINI | Sinh bản nháp + Đối tác phản biện | … | … |
-| 2 | GEMINI | Đối tác phản biện | … | … |
-| 3 | KHÔNG | Sinh bản nháp | Không | Không |
-| 4 | GEMINI | Người kèm cặp | … | … |
-| 5 | GEMINI | Đối tác phản biện | … | … |
-| 6 | … | … | … | … |
+| 1 | GEMINI | Sinh bản nháp + Đối tác phản biện | Tôi đã đưa 3 tin tuyển dụng cho AI yêu cầu phân tích và lập luận theo các góc nhìn đề bài yêu cầu | Tôi đã xoá các phần mà AI đã bịa ra và sửa lại các phần AI ghi nhầm từ tin tuyển dụng này sang tin tuyển dụng kia. |
+| 2 | GEMINI | Đối tác phản biện | Nhờ AI lập ra bảng tám học kỳ dành cho sinh viên khoa học máy tính của trường đại học HUTECH trên GEMINI  | Tôi đã truy vấn nguồn mà nó đã lấy từ đâu ra và sửa lại gần như toàn bộ bảng 8 học kỳ này vì AI đã đưa ra gần như sai tất cả các học phần, tín chỉ, số lượng tín chỉ trên 1 môn học. |
+| 3 | KHÔNG SƯ DỤNG | Không | Không | Không |
+| 4 | GEMINI | Người kèm cặp | Trai vai cho AI là một người gia sư. Mục tiêu không phải trả lời mà là giú mình đánh giá được mức độ khung năng lực của mình | Ở bài này chủ yếu tôi và AI trao đổi với nhau nên cũng không có bắt bẽ cũng như là chỉnh sửa.  |
+| 5 | GEMINI | Đối tác phản biện | Tôi đã tạo ra 5 câu hỏi mà tôi biết trước được câu trả lời nhờ sách giáo khoa cũng như là các khái niệm từ các bên liên quan. | … |
+| 6 | KHÔNG SỬ DỤNG | Không | Không | Không |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
-2. …
+1. Bắt được việc AI bịa ra các thông tin từ các tin tuyển dụng nhưng không hề tồn tại 
+2. Bắt được AI bịa gần như toàn bộ trong bảng 8 học kỳ.
 3. …
 
 ## Điều tôi học được về cách làm việc với nó
