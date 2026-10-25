@@ -8,7 +8,7 @@ title: Nhật ký dùng AI
 |---|---|---|---|---|
 | 1 | GEMINI | Sinh bản nháp + Đối tác phản biện | … | … |
 | 2 | GEMINI | Đối tác phản biện | … | … |
-| 3 | KHÔNG | Sinh bản nháp | … | … |
+| 3 | KHÔNG | Sinh bản nháp | Không | Không |
 | 4 | GEMINI | Người kèm cặp | … | … |
 | 5 | GEMINI | Đối tác phản biện | … | … |
 | 6 | … | … | … | … |
