@@ -42,9 +42,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Thiếu dữ liệu kinh nghiệm
+- Tin tuyển dụng thật ra viết:<br>-Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG.<br>-Có từ 03 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm Full-stack.
+- Tôi sửa thành: -Tối thiểu 3 - 5 năm kinh nghiệm làm việc trong lĩnh vực AI/Data Science, trong đó có ít nhất 1 - 2 năm kinh nghiệm thực tế triển khai các dự án GenAI/LLM/RAG và 3 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm Full-stack.
 
 ## Một quyết định đạo đức
 
