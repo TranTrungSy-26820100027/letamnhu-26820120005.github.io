@@ -8,13 +8,13 @@ title: Hồ sơ nhập ngành
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · đang đi về hướng AI Engineer
 
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://letamnhu-26820120005.github.io>
+letamnhul682@gmail.com · <https://letamnhu-26820120005.github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: letamnhu.291945@gmail.com
+*Cập nhật lần cuối: 25/10/2026 · Liên hệ: letamnhu.291945@gmail.com
