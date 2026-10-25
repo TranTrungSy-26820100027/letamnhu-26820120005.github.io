@@ -9,7 +9,7 @@ title: Chân dung nghề của tôi
 
 AI Engineer
 
-Vì sao: …
+Vì sao: Nhiều cơ hội việc làm, đa dạng lĩnh vực và phù hợp yêu thích.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
