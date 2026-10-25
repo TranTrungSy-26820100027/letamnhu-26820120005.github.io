@@ -4,7 +4,7 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-**Nhóm: Anyone is legend.** <br>**Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang,Trần Trung Sỹ,Lê Tâm Như,Nguyễn Tùng Dương. 
+**Nhóm: Anyone is legend.** <br>**Thành viên:** 5 người:Nguyễn Phú Quý, Phạm Hữu Đức, Bùi Minh Khang, Trần Trung Sỹ, Lê Tâm Như, Nguyễn Tùng Dương. 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 ### 1. Vấn đề
